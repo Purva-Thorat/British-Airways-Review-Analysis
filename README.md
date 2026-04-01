@@ -32,7 +32,7 @@ You can explore the full interactive dashboard on Tableau Public:
 
 ## Author
 **Purva Thorat**
-*Data Analytics Student*
+
 
 ---
 *This project was developed to showcase skills in data visualization, storytelling, and business intelligence using Tableau.*
